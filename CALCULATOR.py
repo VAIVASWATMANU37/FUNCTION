@@ -23,5 +23,5 @@ elif SRT == 3:
 elif SRT == 4:
     DIV()
 else:
-    print("ERROR 69420!!!" 
+    print("ERROR 404!!!" 
           "INVALID CHOICE!!!")
